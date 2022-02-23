@@ -17,27 +17,27 @@ El objetivo principal del juego consta de crear un entretenimiento a todo aquel 
 Con este juego queremos alcanzar todo tipo de públicos, especialmente público mayor de edad que gusten de pasar un buen rato, y sobre todo, jugar con amigos, no definiríamos el juego como un género para toda la familia, por lo que nuestro objetivo es los jóvenes dispuestos a competir y llegar a otro nivel. Podría jugarse perfectamente de manera profesional en equipos, por lo que el alcance es amplio.
 
 ### 1.3 Definiciones: 
-GG - «Good Game» / buena partida.
-GJ - «Good Job» / buen trabajo.
-WP - «Well Played» / bien jugado.
-GL - «Good Luck» / buena suerte.
-HF - «Have Fun» / diviértete.
-W8 - «Wait» / espera.
-AFK - «Away From Keyboard»/ lejos del teclado, inactivo.
+GG - «Good Game» / buena partida. <br>
+GJ - «Good Job» / buen trabajo. <br>
+WP - «Well Played» / bien jugado. <br>
+GL - «Good Luck» / buena suerte. <br>
+HF - «Have Fun» / diviértete. <br>
+W8 - «Wait» / espera. <br>
+AFK - «Away From Keyboard»/ lejos del teclado, inactivo. <br>
 BRB - «Be Right Back» / ahora vuelvo.
  
 ## 2. Análisis de requisitos:
-Teniendo en cuenta el contexto de los videojuegos "first person shooter":  
-Requisitos funcionales:
-El videojuego debe capturar los eventos del sensor del joystick del mando para mediante el movimiento de éste poder visualizar más perspectiva del escenario.
-Al iniciar el juego se debe mostrar el menú principal.
-Se debe mostrar las opciones del videojuego en un sub-menú y poder configurarlas.
+Teniendo en cuenta el contexto de los videojuegos "first person shooter":  <br>
+Requisitos funcionales: <br>
+El videojuego debe capturar los eventos del sensor del joystick del mando para mediante el movimiento de éste poder visualizar más perspectiva del escenario. <br>
+Al iniciar el juego se debe mostrar el menú principal. <br>
+Se debe mostrar las opciones del videojuego en un sub-menú y poder configurarlas. <br>
 Se debe mostrar los autores del videojuego en un sub-menú.
  
-Requisitos no funcionales:
-La interfaz se debe presentar de manera clara al usuario para facilitar su uso.
-La interfaz debe presentar la información de forma legible.
-La interfaz debe requerir de la interacción del usuario
+Requisitos no funcionales: <br>
+La interfaz se debe presentar de manera clara al usuario para facilitar su uso. <br>
+La interfaz debe presentar la información de forma legible. <br>
+La interfaz debe requerir de la interacción del usuario.
  
 Trabajo hecho por: 
 Carlos del Rio López 
