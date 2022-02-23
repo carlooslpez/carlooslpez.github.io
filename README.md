@@ -9,13 +9,12 @@ Empieza la tercera guerra mundial, lo que queda de Europa contra una África ans
 
 El resto de la historia la escribes tú. Elige un bando al que apoyar, la decisión es tuya, elige la restauración y emersión de Europa o la ambición de poder y expansión de África.
  
-El principal problema que  nos encontramos sería el cómo desarrollar el juego, de momento solo tendríamos la historia de cómo se va a replantear.
 
 ### 1.1 Objetivo del juego:
-El objetivo principal del juego consta de crear un entretenimiento a todo aquel fan de los juegos shooter (de disparo) y hacer pasar un buen rato, dentro de ello también buscamos la popularidad de este, por ello debemos de hacerlo lo mejor posible.
+El objetivo principal del juego consta de crear un entretenimiento a todo aquel fan de los juegos shooter (de disparo) y hacer pasar un buen rato, dentro de ello también buscamos la popularidad de este.
 
 ### 1.2 Ámbito: 
-Con este juego queremos alcanzar todo tipo de públicos, especialmente público mayor de edad que gusten de pasar un buen rato, y sobre todo, jugar con amigos, no definiríamos el juego como un género para toda la familia, por lo que nuestro objetivo es los jóvenes dispuestos a competir y llegar a otro nivel. Podría jugarse perfectamente de manera profesional en equipos. Por lo que el alcance es amplio.
+Con este juego queremos alcanzar todo tipo de públicos, especialmente público mayor de edad que gusten de pasar un buen rato, y sobre todo, jugar con amigos, no definiríamos el juego como un género para toda la familia, por lo que nuestro objetivo es los jóvenes dispuestos a competir y llegar a otro nivel. Podría jugarse perfectamente de manera profesional en equipos, por lo que el alcance es amplio.
 
 ### 1.3 Definiciones: 
 GG - «Good Game» / buena partida.
@@ -28,20 +27,19 @@ AFK - «Away From Keyboard»/ lejos del teclado, inactivo.
 BRB - «Be Right Back» / ahora vuelvo.
  
 ## 2. Análisis de requisitos:
-Teniendo en cuenta el contexto de los videojuegos ‘’first person shooter’:  
+Teniendo en cuenta el contexto de los videojuegos "first person shooter":  
 Requisitos funcionales:
-Personajes:
+El videojuego debe capturar los eventos del sensor del joystick del mando para mediante el movimiento de éste poder visualizar más perspectiva del escenario.
+Al iniciar el juego se debe mostrar el menú principal.
+Se debe mostrar las opciones del videojuego en un sub-menú y poder configurarlas.
+Se debe mostrar los autores del videojuego en un sub-menú.
  
 Requisitos no funcionales:
-En principio el videojuego es compatible con todas las consolas de última generación, desde la PS4 y la Xbox One en adelante; ofreciendo un óptimo resultado de ejecución en las últimas consolas, PS5 y Xbox Series X.
-Los requisitos no funcionales que debe satisfacer son los siguientes:  Compatibilidad con el mayor número de consolas.
-Compatibilidad(Cross-Play) entre consolas y PC.
-El idioma será español. 
-Motor de desarrollo poco exigente para poder jugarse en los PC menos potentes.
- 
+La interfaz se debe presentar de manera clara al usuario para facilitar su uso.
+La interfaz debe presentar la información de forma legible.
+La interfaz debe requerir de la interacción del usuario
  
 Trabajo hecho por: 
-
 Carlos del Rio López 
 
 
