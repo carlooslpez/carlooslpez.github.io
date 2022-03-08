@@ -1,6 +1,6 @@
 # Directo a Morir
 
-## 1. Introducción al juego: 
+## Introducción al juego: 
 Por fin se ha superado la pandemia del Covid-19 en todo el mundo. Por desgracia para Europa, medio continente ha quedado desolado. La ONU se ha desmantelado y ya no hay nadie que nos ayude, estamos desamparados ante las demás naciones.
 
 Ante esta gran debilidad, África ve el pésimo estado económico, político y militar europeo como una oportunidad para expandirse y convertirse en una primera potencia mundial.
@@ -9,40 +9,18 @@ Empieza la tercera guerra mundial, lo que queda de Europa contra una África ans
 
 El resto de la historia la escribes tú. Elige un bando al que apoyar, la decisión es tuya, elige la restauración y emersión de Europa o la ambición de poder y expansión de África.
  
+## Promocion
+En la campaña se ha llevado a cabo difusión en diferentes medios de videojuegos además de contar con varios de los mejores youtubers y streamers de juegos FPS existentes de España y del mundo hispanohablante. Gracias a ello conseguimos que el mensaje de la promoción pueda ser visto por los consumidores de este sector de la industria.
 
-### 1.1 Objetivo del juego:
-El objetivo principal del juego consta de crear un entretenimiento a todo aquel fan de los juegos shooter (de disparo) y hacer pasar un buen rato, dentro de ello también buscamos la popularidad de este.
+Además gracias a esta campaña la marca DAM ha podido dar a conocer su producto especial «DAM EDICION ESPECIAL», el cual ha sido uno de los pilares principales de la campaña ya que además ofrece una mejor experiencia del juego por una pequeña suma extra de dinero.
 
-### 1.2 Ámbito: 
-Con este juego queremos alcanzar todo tipo de públicos, especialmente público mayor de edad que gusten de pasar un buen rato, y sobre todo, jugar con amigos, no definiríamos el juego como un género para toda la familia, por lo que nuestro objetivo es los jóvenes dispuestos a competir y llegar a otro nivel. Podría jugarse perfectamente de manera profesional en equipos, por lo que el alcance es amplio.
+Con la promoción todos aquellos usuarios de DAM EDICION ESPECIAL pudieron ir más rápido en el juego gracias a los incentivos que se encontraban en todas las recompensas.
 
-### 1.3 Definiciones: 
-GG - «Good Game» / buena partida. <br>
-GJ - «Good Job» / buen trabajo. <br>
-WP - «Well Played» / bien jugado. <br>
-GL - «Good Luck» / buena suerte. <br>
-HF - «Have Fun» / diviértete. <br>
-W8 - «Wait» / espera. <br>
-AFK - «Away From Keyboard»/ lejos del teclado, inactivo. <br>
-BRB - «Be Right Back» / ahora vuelvo.
- 
-## 2. Análisis de requisitos:
-Teniendo en cuenta el contexto de los videojuegos "first person shooter":  <br>
-Requisitos funcionales: <br>
-El videojuego debe capturar los eventos del sensor del joystick del mando para mediante el movimiento de éste poder visualizar más perspectiva del escenario. <br>
-Al iniciar el juego se debe mostrar el menú principal. <br>
-Se debe mostrar las opciones del videojuego en un sub-menú y poder configurarlas. <br>
-Se debe mostrar los autores del videojuego en un sub-menú.
- 
-Requisitos no funcionales: <br>
-La interfaz se debe presentar de manera clara al usuario para facilitar su uso. <br>
-La interfaz debe presentar la información de forma legible. <br>
-La interfaz debe requerir de la interacción del usuario.
  
 Trabajo hecho por: 
 Carlos del Rio López 
 
 
 
-![](https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2009/04/28/955281a.jpg)
+![](https://los40es00.epimg.net/los40/imagenes/2020/06/25/videojuegos/1593083478_869544_1593084233_gigante_normal.jpg)
 
